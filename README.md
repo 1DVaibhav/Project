@@ -29,7 +29,7 @@ Welcome to the Jokes Web App repository! This repository contains the source cod
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/yourusername/jokes-web-app.git
+   git clone https://github.com/1DVaibhav/jokes-web-app.git
    ```
 
 2. Navigate to the project directory:
