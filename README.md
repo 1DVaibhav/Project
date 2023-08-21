@@ -21,7 +21,7 @@ Welcome to the Jokes Web App repository! This repository contains the source cod
 
 ### Prerequisites
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download) (version compatible with ASP.NET Core 5)
+- [.NET Core SDK](https://dotnet.microsoft.com/download) (version compatible with ASP.NET Core <5)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) or compatible database system
 
 ### Installation
@@ -52,7 +52,7 @@ Welcome to the Jokes Web App repository! This repository contains the source cod
    dotnet run
    ```
 
-6. Open your web browser and navigate to `http://localhost:5000` to access the application.
+6. Open your web browser and navigate to `http://localhost:44322` to access the application.
 
 ### Usage
 
